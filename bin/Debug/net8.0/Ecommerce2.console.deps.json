@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ecommerce2.console/1.0.0": {
+        "runtime": {
+          "Ecommerce2.console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ecommerce2.console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
